@@ -1,0 +1,11 @@
+{
+  "name": "ChadGPT",
+  "symbol": "CHAD",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "El token más musculado e inteligente del blockchain. ChadGPT es la fusión de la IA con la fuerza bruta.",
+  "website": "https://chadgpt-token.vercel.app",
+  "explorer": "https://bscscan.com/token/0xFfB5af5155bF54aeDbD14ac2800a87980D6dB6F8",
+  "status": "active",
+  "id": "0xFfB5af5155bF54aeDbD14ac2800a87980D6dB6F8"
+}
